@@ -6,24 +6,30 @@
 <h3 align="center">Full Stack Software Engineer • Backend Systems • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a backend-leaning full stack engineer focused on building scalable systems and leveraging AI agents to accelerate development.
+Backend-leaning full stack engineer building scalable systems and exploring AI-driven development.
 
 Seattle-born ☕ | Milwaukee-raised 🧀  
 
-Currently diving deep into:
-- 🤖 Agentic AI workflows & AI-assisted engineering
-- ☁️ Cloud architecture (AWS)
-- 🏗️ Distributed backend systems
-- ⚡ Performance & system design
+Currently focused on:
+- 🤖 Agentic AI workflows & AI-assisted engineering  
+- ☁️ Cloud-native architecture (AWS)  
+- 🏗️ Distributed backend systems  
+- ⚡ Performance & system design  
 
-I enjoy working at the intersection of software architecture and emerging AI tooling.
+I care about clean architecture, maintainability, and building systems that scale — not just shipping features.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+</p>
 
 ---
 
@@ -44,41 +50,33 @@ React • Angular • Redux • Tailwind • Sass
 MySQL • MongoDB • DynamoDB • Cassandra  
 
 ### ☁️ Cloud & DevOps
-AWS • Azure • Docker • Kubernetes  
+AWS • Docker • Kubernetes  
 CI/CD • Jenkins • GitHub Actions  
 
 ---
 
-## 🧠 What I’m Focused On Now
-
-- Building with AI coding agents  
-- Designing scalable cloud-native systems  
-- Improving development velocity using AI tooling  
-- System-level thinking instead of just feature building  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="380"/>
+</p>
 
 ---
 
-## 🌎 Portfolio
+## 🧠 Current Direction
 
-All projects live here:  
-👉 **https://www.rileywikel.com/**
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/rileywikel  
-- Email: rahketdev@gmail.com  
+- Leveraging AI coding agents to increase engineering velocity  
+- Designing scalable cloud-first systems  
+- Thinking in systems, not tickets  
+- Constantly refining architecture skills  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-Yes, I am a nerd.  
+Yes, I’m a nerd.  
 But in 2026, that’s called leverage.
