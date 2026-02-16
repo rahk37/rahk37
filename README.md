@@ -1,45 +1,84 @@
-![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
+<p align="center">
+  <img src="https://i.redd.it/thj41ymmh0351.gif" />
+</p>
 
 <h1 align="center">Riley Wikel</h1>
-<h3 align="center">Full Stack Software Engineer • Systems Thinker • AI Builder</h3>
+<h3 align="center">Full Stack Software Engineer • Backend Systems • Agentic AI</h3>
 
 <p align="center">
-Building scalable backend systems, modern frontend applications, and exploring the frontier of AI.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a full stack software engineer with a strong backend foundation and a passion for building systems that scale.
+I’m a backend-leaning full stack engineer focused on building scalable systems and leveraging AI agents to accelerate development.
 
-Born in Seattle ☕ | Raised in Milwaukee 🧀  
-Currently focused on:
-- Machine Learning & Applied AI
-- Search & optimization algorithms
-- Distributed backend systems
-- React Native & modern frontend architecture
+Seattle-born ☕ | Milwaukee-raised 🧀  
 
-I enjoy solving real business problems with clean architecture and pragmatic engineering.
+Currently diving deep into:
+- 🤖 Agentic AI workflows & AI-assisted engineering
+- ☁️ Cloud architecture (AWS)
+- 🏗️ Distributed backend systems
+- ⚡ Performance & system design
+
+I enjoy working at the intersection of software architecture and emerging AI tooling.
 
 ---
 
-## 🚀 What I Work With
+## 🚀 Core Skills
 
-### 💻 Core Languages
-Java • C# • TypeScript • JavaScript • Python • C++  
-
-### 🖥️ Frontend
-React • Angular • Redux • Tailwind • Sass • Webpack  
+### 💻 Languages
+Java • TypeScript • JavaScript • Python  
 
 ### ⚙️ Backend
-Spring Boot • .NET • Node.js • Express • REST APIs • RabbitMQ  
+Spring Boot • Node.js • Express  
+REST APIs • Microservices • RabbitMQ  
+Async processing • Multithreading  
 
-### 🧠 AI / Data
-TensorFlow • Scikit-Learn • OpenCV • Pandas  
+### 🖥️ Frontend
+React • Angular • Redux • Tailwind • Sass  
 
 ### 🗄️ Databases
-MySQL • MongoDB • Cassandra • DynamoDB  
+MySQL • MongoDB • DynamoDB • Cassandra  
 
-### ☁️ DevOps & Cloud
-AWS • Azure • GCP • Docker • Kubern
+### ☁️ Cloud & DevOps
+AWS • Azure • Docker • Kubernetes  
+CI/CD • Jenkins • GitHub Actions  
+
+---
+
+## 🧠 What I’m Focused On Now
+
+- Building with AI coding agents  
+- Designing scalable cloud-native systems  
+- Improving development velocity using AI tooling  
+- System-level thinking instead of just feature building  
+
+---
+
+## 🌎 Portfolio
+
+All projects live here:  
+👉 **https://www.rileywikel.com/**
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/rileywikel  
+- Email: rahketdev@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+Yes, I am a nerd.  
+But in 2026, that’s called leverage.
